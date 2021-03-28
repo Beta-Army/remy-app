@@ -1,7 +1,7 @@
 # Remy
 > Remy takes care of your loved ones behind your back, while making it a fun daily activity for them. Detect onset of medical conditions before it is too late.
 
-*Only available for android devices now* -  [download apk](https://drive.google.com/file/d/1_YhPcIJMgPAuuRrNtlB8QHrcFYMuNdjx/view?usp=sharing)
+*Only available for android devices now* -  [download the latest APK here](https://drive.google.com/file/d/1_YhPcIJMgPAuuRrNtlB8QHrcFYMuNdjx/view?usp=sharing)
 
 ## What problem does Remy Solve?
 

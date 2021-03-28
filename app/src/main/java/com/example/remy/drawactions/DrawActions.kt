@@ -1,0 +1,28 @@
+package com.example.remy.drawactions
+
+import com.example.remy.R
+import com.example.remy.morningactions.MorningActions
+
+object DrawActions {
+
+    public const val DRAW_ACTION_STEP = "draw_action_step"
+
+    public val DRAW_ACTION_GIFS = intArrayOf(
+        R.drawable.draw_spiral_trans,
+        R.drawable.draw_star_trans
+    )
+
+    public val DRAW_ACTION_INSTRUCTIONS = arrayOf(
+        "Draw a clockwise spiral like shown",
+        "Draw a star like the one shown below"
+    )
+
+    var currentStep = -1
+
+    public fun nextStep (): Int {
+        if (currentStep == DRAW_ACTION_GIFS.size - 1) {
+            currentStep = -1
+        }
+        return ++currentStep
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873641259439",
+    "firebase_url": "https://remy-e31bc-default-rtdb.firebaseio.com/",
+    "project_id": "remy-e31bc",
+    "storage_bucket": "remy-e31bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873641259439:android:3b44d069e7e3cd6c843f5a",
+        "android_client_info": {
+          "package_name": "com.example.remy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873641259439-71eokemcl75i48djdhati3nsdal9t5aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remy",
+            "certificate_hash": "84a948b080b58dfeabf5fe4f046169303e8370f9"
+          }
+        },
+        {
+          "client_id": "873641259439-0c5ud90rt18hes3i4vteh1tahmgukfg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9BaCk9HN4BsKPZ4DNwqTLXzmle72x8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873641259439-0c5ud90rt18hes3i4vteh1tahmgukfg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

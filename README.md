@@ -25,7 +25,7 @@ Tracking these parameters on a daily basis, and detecting anomalies in patterns 
 ### Tracking Records
 
 ![dataset1](assets/module1.jpg)
-![dataset2](assets/module2.jpg)
+![dataset2](assets/Module2.jpg)
 
 ### Made Using
 
